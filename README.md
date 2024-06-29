@@ -15,4 +15,10 @@ Diversity in the workplace has surpassed being a corporate trend and now is cons
 
 # Data Visuals
 ![image](https://github.com/prashantsagar38/Diversity-Inclusive-Analysis/assets/75689051/09f3c42a-fab9-4566-ac9c-525518ae7d8b)
+![image](https://github.com/prashantsagar38/Diversity-Inclusive-Analysis/assets/75689051/056ac261-665e-4236-a515-13f966070176)
+![image](https://github.com/prashantsagar38/Diversity-Inclusive-Analysis/assets/75689051/46accf1c-44aa-4030-b141-c2063984f858)
+![image](https://github.com/prashantsagar38/Diversity-Inclusive-Analysis/assets/75689051/0eea51d0-f429-49fb-9e51-56566cb6f360)
+
+
+
 
