@@ -12,3 +12,7 @@ Diversity in the workplace has surpassed being a corporate trend and now is cons
 - The only countries that might have benefited from Diversity and Inclusion for their new hires at FY20 are Italy, Switzerland, Germany, and France.
 - FY19 (2.57) outperformed FY20 (2.41) according to the average performance rating.
 - There's a significant improvement (as regards women's inclusion) for FY20 from Job level before promotion and Job level after promotion. We can't say the same for FY21...sadly.
+
+# Data Visuals
+![image](https://github.com/prashantsagar38/Diversity-Inclusive-Analysis/assets/75689051/09f3c42a-fab9-4566-ac9c-525518ae7d8b)
+
